@@ -51,7 +51,7 @@ I used oficial Bosch datasheet bmp280, bme280 and examples (thanks) for making t
 https://github.com/GyverLibs/GyverBME280<BR>
 https://github.com/farmerkeith/BMP280-library/<BR>
 https://github.com/farmerkeith/I2CScanner/<BR>
-Also thanks for help in nme680:<br>
+Also thanks for help in bme680:<br>
 https://github.com/Zanduino/BME680<br>
 https://github.com/kriswiner/BME680<br>
 
